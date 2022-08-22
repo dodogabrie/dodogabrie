@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodogabrie&layout=compact&hide=jupyter%20notebook,tex,vim%20script,vim%20snippet,html,css,makefile,javascript,bash)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodogabrie&layout=compact&hide=jupyter%20notebook,tex,vim%20script,vim%20snippet,html,css,makefile,javascript,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodogabrie)](https://github.com/anuraghazra/github-readme-stats)
 
