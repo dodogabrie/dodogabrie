@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodogabrie&layout=compact&hide=JupyterNotebooks)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodogabrie&layout=compact&hide=Jupyter\ Notebooks)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodogabrie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
